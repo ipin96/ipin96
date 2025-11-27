@@ -30,13 +30,5 @@ Here are some of the technologies I work with regularly:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Badge"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js Badge"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ipinn96&show_icons=true&theme=dark" alt="Imam Arifin's GitHub Stats"/>
 </p>
