@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ipin96/ipin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Imam Arifin**. I'm a **Web/Mobile Apps Tech Stack Developer** specialized in **Laravel, React, Express, and Node.js**.
 
-Here are some ideas to get you started:
+* 🏢 I'm currently working at **CV. Gbee Glow Indonesia**.
+* 📚 I'm currently learning **Typescript**, **Vue**, **Express**, **NestJS**, and **Vite + React**.
+* ⚡ Fun fact: I enjoy playing **Badminton** 🏸.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+Berikut adalah daftar skill Anda (Saya akan menggunakan ikon populer untuk representasi visual):
+
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Backend** | PHP, Laravel, Node.js, Express |
+| **Frontend/Mobile** | JavaScript, React / React Native, Vue, Tailwind CSS |
+
+> *Catatan: Jika Anda ingin menambahkan ikon-ikon visual seperti di gambar (badge/shield), Anda bisa menggunakan layanan seperti [shields.io](https://shields.io/) dan menyematkan kodenya di sini.*
+
+---
+
+## Popular repositories
+(Bagian ini biasanya akan diisi secara otomatis oleh GitHub, menampilkan repo yang paling banyak dilihat atau di-star.)
