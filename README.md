@@ -16,10 +16,3 @@ Berikut adalah daftar skill Anda (Saya akan menggunakan ikon populer untuk repre
 | :--- | :--- |
 | **Backend** | PHP, Laravel, Node.js, Express |
 | **Frontend/Mobile** | JavaScript, React / React Native, Vue, Tailwind CSS |
-
-> *Catatan: Jika Anda ingin menambahkan ikon-ikon visual seperti di gambar (badge/shield), Anda bisa menggunakan layanan seperti [shields.io](https://shields.io/) dan menyematkan kodenya di sini.*
-
----
-
-## Popular repositories
-(Bagian ini biasanya akan diisi secara otomatis oleh GitHub, menampilkan repo yang paling banyak dilihat atau di-star.)
